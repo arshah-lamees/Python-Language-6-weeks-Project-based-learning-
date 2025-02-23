@@ -1,0 +1,2 @@
+this file is "sample_text.txt".
+it was made to practice reading from a file.

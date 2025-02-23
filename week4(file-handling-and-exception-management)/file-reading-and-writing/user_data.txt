@@ -1,0 +1,2 @@
+this file is "user_data.txt".
+it was made to practice writing and appending on a file.
