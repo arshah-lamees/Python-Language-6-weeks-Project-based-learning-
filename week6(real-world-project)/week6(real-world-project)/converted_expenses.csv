@@ -1,0 +1,10 @@
+Date,Category,Amount,Description,Currency,Converted_Amount,Base_Currency
+2023-01-02,transport,300.0,van fare,USD,83971.26,PKR
+2023-05-06,party,300.0,birthday,USD,83971.26,PKR
+2024-05-06,party,400.0,birthday,USD,111961.68,PKR
+2022-05-06,party,5000.0,bridal shower,USD,1399521.0,PKR
+2023-04-05,party,300.0,bday,USD,83971.26,PKR
+2022-04-05,party,300.0,birthday,USD,83971.26,PKR
+2022-04-05,party,250.0,bday,USD,69976.05,PKR
+2025-03-17,food,200.0,lunch,USD,55980.84,PKR
+2025-05-02,Test,3000.0,Testing code,USD,839712.6,PKR
